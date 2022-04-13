@@ -1,0 +1,47 @@
+/*index*/
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+header h1 {
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 1.5em;
+}
+
+div {
+    margin: auto;
+    text-align: center;
+}
+
+div img {
+    width: 35%;
+    border-radius: 25px;
+    margin-bottom: 1.5em;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 15%)
+}
+
+ul li {
+    line-height: 2em;
+    text-align: center;
+}
+
+main p {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+li a:link, a:visited {
+    text-decoration: none;
+    color: rgb(45, 45, 45);
+}
+
+li a:hover {
+    text-decoration: none;
+    color: rgb(87, 87, 87);
+}
